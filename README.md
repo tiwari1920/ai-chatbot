@@ -1,4 +1,4 @@
-# Console — AI Chatbot
+# Tiwari — AI Chatbot
 
 A full-stack AI chatbot: a vanilla HTML/CSS/JS frontend, a **FastAPI** chat
 API and a **Flask** admin dashboard running side by side in one process, an
